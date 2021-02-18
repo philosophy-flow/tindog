@@ -1,1 +1,1 @@
-TinDog Starting Files
+This project is a simple landing page for a company that specializes in finding friends for your dog. The page is responsive and demonstrates the power of Bootstrap, including the grid system and the carosusel feature.
